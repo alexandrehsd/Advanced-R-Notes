@@ -20,6 +20,7 @@ Below, there is a list of topics already covered in the Wiki page:
 
 > I Foundations
 6. [Functions](https://github.com/alexandrehsd/Advanced-R-Notes/wiki/6-Functions)
+7. [Environments](https://github.com/alexandrehsd/Advanced-R-Notes/wiki/7-Environments)
 
 > II Functional Programming
 9. [Functionals](https://github.com/alexandrehsd/Advanced-R-Notes/wiki/9-Functionals)
