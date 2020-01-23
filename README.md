@@ -24,3 +24,4 @@ Below, there is a list of topics already covered in the Wiki page:
 
 > II Functional Programming
 9. [Functionals](https://github.com/alexandrehsd/Advanced-R-Notes/wiki/9-Functionals)
+10. [Function Factories](https://github.com/alexandrehsd/Advanced-R-Notes/wiki/10-Function-Factories)
